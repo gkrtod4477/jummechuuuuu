@@ -4,7 +4,7 @@
     "name": "김치찌개",
     "category": "한식",
     "description": "얼큰한 국물과 돼지고기가 들어간 든든한 점심 메뉴",
-    "imageUrl": "https://example-bucket.s3.ap-northeast-2.amazonaws.com/images/menus/kimchi-jjigae.jpg",
+    "imageUrl": "https://mybucket-20263576.s3.us-east-1.amazonaws.com/images/menus/kimchi-jjigae.jpg",
     "tags": ["국물", "매운맛"],
     "priceRange": "9000-11000",
     "spicy": true
@@ -14,7 +14,7 @@
     "name": "치킨 카레",
     "category": "일식",
     "description": "부드러운 카레 소스와 닭고기를 곁들인 한 그릇 메뉴",
-    "imageUrl": "https://example-bucket.s3.ap-northeast-2.amazonaws.com/images/menus/chicken-curry.jpg",
+    "imageUrl": "https://mybucket-20263576.s3.us-east-1.amazonaws.com/images/menus/chicken-curry.jpg",
     "tags": ["한그릇", "부드러운맛"],
     "priceRange": "8500-10000",
     "spicy": false
@@ -24,7 +24,7 @@
     "name": "비빔밥",
     "category": "한식",
     "description": "다양한 나물과 고추장을 비벼 먹는 균형 잡힌 메뉴",
-    "imageUrl": "https://example-bucket.s3.ap-northeast-2.amazonaws.com/images/menus/bibimbap.jpg",
+    "imageUrl": "https://mybucket-20263576.s3.us-east-1.amazonaws.com/images/menus/bibimbap.jpg",
     "tags": ["채소", "든든함"],
     "priceRange": "9000-12000",
     "spicy": false
@@ -34,7 +34,7 @@
     "name": "마라샹궈",
     "category": "중식",
     "description": "얼얼한 향신료와 다양한 재료를 볶아낸 자극적인 메뉴",
-    "imageUrl": "https://example-bucket.s3.ap-northeast-2.amazonaws.com/images/menus/mala-xiang-guo.jpg",
+    "imageUrl": "https://mybucket-20263576.s3.us-east-1.amazonaws.com/images/menus/mala-xiang-guo.jpg",
     "tags": ["매운맛", "볶음"],
     "priceRange": "12000-15000",
     "spicy": true

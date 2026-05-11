@@ -52,15 +52,15 @@
 
 ### Phase 3: Deployment and Documentation
 
-- [ ] Task 8: S3 배포 전제에 맞는 빌드 설정 정리
-- [ ] Task 9: GitHub Actions 배포 워크플로우 작성
-- [ ] Task 10: README 및 제출용 운영 정보 정리
+- [x] Task 8: S3 배포 전제에 맞는 빌드 설정 정리
+- [x] Task 9: GitHub Actions 배포 워크플로우 작성
+- [x] Task 10: README 및 제출용 운영 정보 정리
 
 ### Checkpoint: Complete
 
-- [ ] `npm run build`가 성공한다.
-- [ ] `.github/workflows/deploy.yml`이 정의되어 있다.
-- [ ] S3 정적 호스팅 전제와 GitHub Secrets 요구사항이 문서에 반영되어 있다.
+- [x] `npm run build`가 성공한다.
+- [x] `.github/workflows/deploy.yml`이 정의되어 있다.
+- [x] S3 정적 호스팅 전제와 GitHub Secrets 요구사항이 문서에 반영되어 있다.
 
 ## Detailed Tasks
 
