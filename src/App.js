@@ -116,7 +116,7 @@ function App() {
       <section className="hero">
         <div className="hero-copy">
           <p className="eyebrow">Lunch Menu Recommendation</p>
-          <h1>점심 메뉴 추천 v2</h1>
+          <h1>점심 메뉴 추천 v3</h1>
           <p className="description">
             버튼 한 번으로 메뉴를 추천합니다.
           </p>
